@@ -1,0 +1,29 @@
+_repo: The-Nest-of-the-Sparrowhawk--A-Romance-of-the-XVIIth-Century_12175
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Orczy, Emmuska Orczy, Baroness
+    aliases:
+    - Barstow, Montagu, Mrs.
+    - Orczy, Baroness Emmuska
+    birthdate: 1865
+    deathdate: 1947
+    gutenberg_agent_id: '45'
+    url: http://www.gutenberg.org/2009/agents/45
+    wikipedia: http://en.wikipedia.org/wiki/Baroness_Orczy
+description: ''
+gutenberg_issued: '2004-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12175'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- History -- Commonwealth and Protectorate, 1649-1660 -- Fiction'
+- !lcsh 'Historical fiction'
+- !lcc 'PR'
+- GITenberg
+title: 'The Nest of the Sparrowhawk: A Romance of the XVIIth Century'
+url: http://www.gutenberg.org/ebooks/12175
